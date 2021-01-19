@@ -1,0 +1,28 @@
+.shopup-body {
+  width: 100%;
+  padding: 0 40px;
+}
+
+.shopup-titel {
+  display: flex;
+  align-items: center;
+  padding: 20px 0;
+}
+.shopup-titel div:nth-child(1) {
+  font-size: 24px;
+  margin-right: 20px;
+}
+.shopup-titel div:nth-child(2) a {
+  margin: 20px 10px 0 10px;
+}
+.shopup-tab{
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #e87911 !important;
+}
+.ant-tabs-tab-btn {
+  color: #0066c0;
+}
+.ant-tabs-ink-bar {
+  background-color: #e87911 !important;
+}

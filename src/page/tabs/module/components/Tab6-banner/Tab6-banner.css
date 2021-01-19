@@ -1,0 +1,13 @@
+.tab6-textarea{
+    width: 568px;
+    height: 100px;
+    outline: none;
+    border: 1px solid #AAB7B8;
+    padding: 5px;
+}
+.tab6-textarea::-webkit-input-placeholder{
+    font-style: italic;
+}
+.tab6-box{
+    background-color: #fff;
+}

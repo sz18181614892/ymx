@@ -1,0 +1,50 @@
+.Choose-your-campaign-type-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Choose-your-campaign-type-box{
+    width: 850px;
+}
+.Choose-your-campaign-type-title{
+    padding-top: 45px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.promotion{
+    font-size: 12px;
+    width: 272px;
+    height: 360px;
+    text-align: center;
+    border: solid 1px #ccc;
+}
+.promotion-title{
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px 0px;
+}
+.promotion-img{
+    height: 160px;
+    background-color: #eeeeee;
+    text-align: center;
+    line-height: 160px;
+}
+.promotion-introduce{
+    padding: 20px;
+}
+.promotion button{
+    width: 125px;
+    height: 30px;
+    margin-bottom: 15px;
+    border: #d9d9d9;
+    background-color: #e5e5e5;
+}
+.promotion-box{
+    display: flex;
+    justify-content: space-between;
+}
+.bangzhu{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 35px;
+}

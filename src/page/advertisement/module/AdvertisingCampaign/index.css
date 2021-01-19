@@ -1,0 +1,62 @@
+.AdvertisingCampaign-box {
+  display: flex;
+}
+.AdvertisingCampaign-box-left {
+  width: 35px;
+  line-height: normal;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+}
+.AdvertisingCampaign-box-right {
+  width: 100%;
+  height: 100%;
+}
+.box-right-head {
+  height: 55px;
+  line-height: 55px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #005a95;
+}
+.box-right-head-right {
+  display: flex;
+}
+.box-right-head-left {
+  color: #fff;
+}
+.box-right-head-right div {
+  margin-right: 22px;
+}
+.icons-list {
+  color: #fff;
+}
+.AdvertisingCampaign-Navigation {
+  background-color: #f8f8f8;
+}
+.main-box {
+  display: flex;
+}
+.sidebar {
+  width: 180px;
+  background-color: #f3f3f3;
+  padding: 10px;
+}
+.AdvertisingCampaign-button {
+  position: absolute;
+  top: 50px;
+}
+.sidebar-head {
+  padding-left: 5px;
+  line-height: 23px;
+  border-bottom: solid 1px #ccc;
+}
+.sidebar-head span {
+  font-weight: 700;
+}
+.sidebar-list {
+  padding: 10px;
+}
+.AdvertisingCampaign-Navigation-box{
+  position: relative;
+}

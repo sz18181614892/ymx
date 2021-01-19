@@ -1,0 +1,49 @@
+
+.examine-body{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 300px;
+}
+
+.examine-Lwarn{
+    width: 100%;
+    height: 50px;
+    border: 1px solid #bbd3de;
+    margin: 35px 0;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background: #f6f6f6;
+
+}
+.examine-Lwarn span{
+    color: #0066c0;
+    }
+.examine-icon{
+    margin: 0 20px;
+    font-size: 26px;
+}
+.examine-list{
+    width: 100%;
+    border: 1PX SOLID #dddddd;
+}
+.examine-listHed{
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f6f6f6;
+    padding: 0 20px ;
+    font-weight: bold;
+
+}
+
+.examine-listNav{
+    width: 100%;
+    padding: 0 20px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom:1px solid #dddddd ;
+}

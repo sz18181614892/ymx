@@ -1,0 +1,61 @@
+.tabs-box{
+    background: #f5f9fa;
+}
+.tab1Banner-box{
+    background: #fff;
+}
+.ant-tabs-nav{
+    margin: 0!important;
+}
+
+.tab1-row{
+    padding: 20px;
+    align-items: center;
+    font-size: 12px;
+}
+.tab-col-right{
+    text-align: right;
+}
+.tab-col-right-icon{
+    margin-left: 5px;
+    color: #008296!important;
+    font-size: 13px;
+}
+.ant-form-item-label > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before{
+    color: #008296!important;
+}
+
+.tab1-form-title{
+    font-size: 12px;
+    font-weight: bold;
+    color: #002F36;
+}
+
+.ant-form-item-extra{
+    font-size: 12px!important;
+    color: #000!important;
+}
+.ant-form-item{
+    margin: 40px 0!important;
+}
+.tab1-button{
+    margin-left: 170px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.tab1-button button{
+    margin-left: 20px;
+    font-size: 12px;
+    color: #fff;
+}
+.tab1-button button:first-child{
+    background-color: #e3eced;
+    color: #002F36;
+}
+.tab1-button button:last-child{
+    background-color: #879596;
+}
+.tab1-button button:hover{
+    color: #002F36;
+}

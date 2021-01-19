@@ -1,0 +1,16 @@
+.tab4-box{
+    background-color: #fff;
+}
+.tab4-select{
+    width: 270px!important;
+}
+.tab4-unite{
+    display: flex;
+    justify-content: space-around;
+}
+.ant-form-item-label{
+    white-space: normal!important;
+}
+.ant-form-item-extra{
+    color: #008296!important;
+}

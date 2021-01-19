@@ -1,0 +1,235 @@
+.shopupDL-body{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.shopupDL-lbox{
+    width: 67%;
+}
+.shopupDL-boxPD{
+    padding: 0 20px;
+}
+
+
+.shopupDL-titel{
+    height: 71px;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+.shopupDL-fontSize{
+    font-size: 21px;
+}
+.shopupDL-merit{
+    margin-bottom: 40px;
+}
+.shopupDL-bor{
+    border: 1px solid #dddddd;
+    margin: 30px 0;
+    border-radius: 4px;
+}
+.shopupDL-boxHed{
+    width: 100%;
+    height: 47px;
+    background: #f4f4f4;
+    border-bottom:1px solid #dddddd;
+    display: flex;
+    align-items: center;
+    padding: 20px;   
+    font-size: 21px;
+    font-weight: bold;
+}
+.shopupDL-inpTitel{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+.shopupDL-inpTitel div:nth-child(1){
+    font-weight: bold;
+    font-size: 14px;
+}
+.shopupDL-inpTitel span{
+    margin-left: 20px;
+
+}
+.shopupDL-inpB{
+    display: flex;
+    align-items: center;
+}
+.shopupDL-inp{
+    border: 1px solid #dddddd;
+    width: 404px;
+    height: 30px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.shopupDL-inp input{
+    width: 300px;
+    border: none;
+}
+.shopupDL-part{
+    margin-top: 20px;
+    width: 307px;
+    text-align: center;
+    margin-bottom: 50px;
+    display: flex;
+}
+
+.shopupDL-line{
+    width: 139px;
+    height: 11px;
+    border-bottom:1px solid #dddddd;
+    
+}
+.shopupDL-titelF{
+    font-weight: bold;
+}
+.shopupDL-slide{
+    width: 100%;
+    display: flex;
+    padding-bottom: 30px;
+
+}
+.shopupDL-slideBox{
+    width: 35%;
+    height: 350px;
+    border: 1px solid #dddddd;
+    overflow: auto;
+}
+
+
+.shopupDL-slideNav{
+    width: 100%;
+    height: 43px;
+    line-height: 43px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.shopupDL-delBox{
+    width: 100%;
+    border: 1px solid #dddddd;
+    margin-bottom: 20px;
+
+}
+.shopupDL-delBox-top{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    background: #f4f4f4;
+    display: flex;
+    justify-content: space-between;
+}
+.shopupDL-delBox-top div{
+    width: 20%;
+}
+.shopupDL-delBox-nav{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.shopupDL-delBox-nav div{
+    width: 20%;
+}
+
+.shopupDL-box2Top{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 20px 0 0 0;
+}
+.shopupDL-boxBtn{
+    display: flex;
+}
+.shopupDL-boxBtn div:nth-child(1){
+    width: 54px;
+    height: 33px;
+    border: 1px solid #dddddd;
+    color: #ffffff;
+    background: #777777;
+    text-align: center;
+    line-height: 33px;
+    border-radius: 3px;
+}
+.shopupDL-boxBtn div:nth-child(2){
+    width: 67px;
+    height: 34px;
+    border: 1px solid #dddddd;
+    text-align: center;
+    line-height: 33px;
+    background: #eff1f3;
+    border-radius: 3px;
+}
+.shopupDL-boxBtn-btm{
+    margin-bottom:20px;
+    text-align: right;
+}
+.shopupDL-boxBtn-btm button{
+    width: 75px;
+    height: 35px;
+    background: #f3cd6f;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+.shopupDL-boxHed-btm{
+    width: 100%;
+    height: 35px;
+    background: #f4f4f4;
+    border-bottom:1px solid #dddddd;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;   
+    font-weight: bold;
+    color: #737373;
+}
+.shopupDL-boxBef{
+    padding: 0 20px;
+
+}
+.shopupDL-boxBef-nav{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+.shopupDL-boxBef-navShop div{
+    color: #0066c0;
+}
+.shopupDL-boxBef-nav span{
+    margin-right: 20px;
+}
+
+
+
+
+.shopupDL-rbox{
+    width: 30%;
+    height: 500px;
+    margin-top: 20px;
+
+}
+.shopupDL-warnBox{
+    width: 100%;
+    border: 2px solid #3479ac;
+    background: #f6f6f6;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.shopupDL-rBox-warnHed{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.shopupDL-rBox-warnnav{
+    padding:0 60px;
+}
+.shopupDL-boxPD div ul li{
+    list-style:inside;
+    
+}

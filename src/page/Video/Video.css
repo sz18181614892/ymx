@@ -1,0 +1,117 @@
+.video-body{
+    padding: 0 40px;
+}
+.video-Box{
+    display: flex;
+}
+.video-titel{
+    width: 55%;
+    height: 71px;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.video-titel div:nth-child(1){
+    font-size: 24px;
+}
+.video-titel div:nth-child(2){
+    width: 70%;
+}
+
+.video-leftBox{
+    border: 1px solid black;
+    width: 55%;
+    padding: 60px;
+    text-align: center;
+    background: #f7f7f7;
+}
+.video-leftBox div{
+        padding: 40px 0 0 0;
+}
+.video-leftBox div:nth-child(1){
+    margin: 0 auto;
+    width: 140px;
+    height: 113px;
+    background-image: url(../../assets/images/video.png);
+}
+.video-leftBox div:nth-child(2){
+    padding: 0 !important;
+    font-size: 24px;
+}
+.video-leftBox div:nth-child(5){
+    padding: 20px;
+}
+.video-leftBox button{
+        width: 135px;
+        height: 45px;
+        background: #e3ecde;
+        border: none;
+        border-radius: 4px;
+        box-shadow: 0px 10px 10px #dddddd;
+}
+
+
+.video-rightBox{
+    width: 30%;
+    height: 500px;
+    padding:0 30px;
+}
+.video-rightBox-top{
+    margin-bottom: 25px;
+}
+.video-rightBox-shopName{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+}
+.video-rightBox-shopName div:nth-child(2){
+    display: flex;
+}
+.video-rightBox-inp input{
+    width: 100%;
+    height: 36px;
+}
+.video-rightBox-middle{
+    padding-bottom: 20px;
+}
+.video-rightBox-middle-btn{
+    width: 129px;
+    height: 33px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: #fafafa;
+    border: 1px solid  #dddddd;
+}
+.video-rightBox-middle-btn div{
+    width: 100%;
+    text-align: center;
+
+}
+.video-rightBox-bottom-img{
+    width: 168px;
+    height: 103px;
+    background: url(../../assets/images/pot.png);
+    margin-bottom: 20px;
+}
+.video-rightBox-bottom-btn button{
+    width: 105px;
+    height: 39px;
+    margin: 0 20px 5px 0;
+    border: none;
+    box-shadow: 2px 2px 2px #dddddd;
+    
+}
+.video-rightBox-bottom-btn span{
+    color: #008296;
+}
+.video-rightBox-tiem{
+    width: 22px;
+    height: 22px;
+    background: url(../../assets/images/tiem.png) ;
+    margin-right: 10px;
+}
+
+

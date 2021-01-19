@@ -1,0 +1,46 @@
+.repertoryAge-titel {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+  .repertoryAge-mix{
+      margin-top: 15px;
+  }
+  
+  .repertoryAge-theme {
+    font-size: xx-large;
+    margin-right: 16px;
+  }
+  .repertoryAge-link {
+    margin-top: 12px;
+  }
+  .repertoryAge-link a{
+    color:#008296 ;
+   }
+   .repertoryAge-link span{
+     margin:0 12px;
+     font-weight: bold;
+   }
+
+  .Replenish-inp{
+    margin-top: 20px;
+  }
+  .Replenish-screen{
+      margin-top: 20px;
+      
+  }
+  .fgx {
+      margin-top: 100px;
+
+  }
+  .footer-font-small{
+    margin: 0px 20px;
+  }
+  .footer-font-right{
+    text-align:right;
+    float:right;
+  }
+  .Replenish-listTitel{
+      margin-top: 10px;
+
+  }

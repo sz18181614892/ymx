@@ -1,0 +1,47 @@
+.home-body-box {
+    margin: 0 auto;
+    overflow: hidden;
+    margin-bottom: 42px;
+    background:  #F5F9FA url("../../../../assets/images/bg1.jpg") no-repeat;
+    background-size: 280px 520px;
+}
+
+.home-body {
+    width: 800px;
+    height: 200px;
+    margin: 158px auto;
+}
+
+.home-body-title {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.home-body h1 {
+    font-weight: normal;
+    font-family: "方正楷体",serif;
+    margin: 10px 0 26px 0;
+    color: #002F36;
+}
+.body-row{
+    text-align: center;
+    font-size: 12px;
+    color: #008296;
+    margin-top: 18px;
+}
+.body-col{
+    border-left: 1px solid #D3D3D3;
+    border-right: 1px solid #D3D3D3;
+    height: 38px;
+}
+.body-col a{
+    color: #008296;
+}
+.body-row:nth-child(2){
+    border: none;
+}
+.ant-input::placeholder {
+    color: #667575;
+    font-size: 12px!important;
+    font-style:oblique;
+}

@@ -1,0 +1,130 @@
+.history-box {
+  padding: 28px 18px;
+  font-size: 12px;
+}
+.main {
+  border: solid 1px #ccc;
+}
+.history-index-subject {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  margin-bottom: 18px;
+}
+.history-index-subject1 {
+  border: 1px solid #ccc;
+  width: 290px;
+  height: 60px;
+  position: relative;
+  border-radius: 3px;
+}
+
+.history-index-subject3 {
+  border-top: 3px solid #dd7703 !important;
+  border: 1px solid #ccc;
+  width: 290px;
+  height: 60px;
+  position: relative;
+  border-radius: 3px;
+}
+.history-index-subject4 {
+  border-top: 3px solid #2e8cb8 !important;
+  border: 1px solid #ccc;
+  width: 290px;
+  height: 60px;
+  position: relative;
+  border-radius: 3px;
+}
+
+.history-index-subject1-lcon {
+  border: solid 0px #ccc;
+  background-color: #ccc;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  color: #fff;
+  margin-left: 5px;
+}
+.history-index-subject1-lcon-1 {
+  position: absolute;
+  top: 1px;
+  right: 3px;
+  color: #ccc;
+}
+.history-index-name {
+  margin-left: 15px;
+  margin-top: 5px;
+}
+.history-index-count {
+  font-size: 16px;
+  margin-left: 15px;
+  margin-right: 2px;
+}
+.history-index-count-box {
+  margin-top: 10px;
+}
+.history-index-subject2 {
+  text-align: center;
+  line-height: 60px;
+  border: 1px dashed #000;
+  width: 300px;
+  height: 60px;
+}
+.history-index-box {
+  width: 100%;
+  height: 280px;
+  border: 1px solid #ccc;
+  margin: 18px 0;
+  border-radius: 3px;
+}
+.history-list-box {
+  margin-top: 20px;
+  border: solid 1px #ccc;
+  border-radius: 2px;
+}
+.history-list-head {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  border-bottom: solid 1px #ccc;
+}
+.history-list-head select {
+  width: 90px;
+  height: 30px;
+  background-color: #e4e4e4;
+  border-radius: 2px;
+}
+.history-list-head button {
+  width: 110px;
+  height: 30px;
+  margin-left: 20px;
+  border: #d9d9d9;
+  background-color: #e4e4e4;
+}
+.logListTable .ant-table.ant-table-middle{
+  font-size: 12px !important;
+}
+.history-fenye{
+    font-size: 14px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.history-fenye-left{
+
+    color:#767676 ;
+}
+.history-fenye input{
+    width: 30px;
+    height: 25px;
+    text-align: center;
+    margin: 0px 12px;
+}
+.history-fenye button{
+    width: 25px;
+    height: 25px;
+    text-align: center;
+}
+.history-fenye-span{
+margin-left: 5px;
+}

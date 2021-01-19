@@ -1,0 +1,86 @@
+{
+  "id": "2273442",
+  "name": "亚马逊",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7278895",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "10590616",
+      "name": "警告",
+      "font_class": "jinggao1",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "14554681",
+      "name": "问好",
+      "font_class": "wenhao",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "13331348",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "602005",
+      "name": "向右箭头",
+      "font_class": "fanhui-copy-copy",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "9626024",
+      "name": "指南针",
+      "font_class": "zhinanzhen",
+      "unicode": "e835",
+      "unicode_decimal": 59445
+    },
+    {
+      "icon_id": "11505932",
+      "name": "五角星",
+      "font_class": "xingzhuang60kaobei2",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "13482712",
+      "name": "五角星 星型 ",
+      "font_class": "wujiaoxingxingxing",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "5679658",
+      "name": "美国国旗_",
+      "font_class": "meiguoguoqi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10960502",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "15588359",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}

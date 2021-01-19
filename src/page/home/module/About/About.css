@@ -1,0 +1,32 @@
+h3 {
+    padding-left: 32px;
+    font-weight: normal;
+    font-family: "SongTi", serif;
+}
+.about-layout{
+    flex-direction: column!important;
+    border-bottom: 1px solid #e7e7e7;
+    padding-bottom: 20px;
+    background-color: #fff!important;
+}
+.about-col{
+    margin: 20px 0;
+}
+.about-box{
+    padding-left: 32px;
+}
+.about-title{
+    font-size: 12px;
+    color: #002F36;
+    font-weight: bold;
+}
+.about-content{
+    width: 95%;
+    font-size: 11px;
+    color: #808080;
+    margin: 2px 0 10px 0 ;
+}
+.about-more{
+    font-size: 10px;
+    color: #008296;
+}

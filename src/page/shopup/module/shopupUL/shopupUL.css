@@ -1,0 +1,32 @@
+.shopupUL-type{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+.shopupUL-type div:nth-child(1){
+    margin-right: 40px;
+}
+.shopupUL-labelBtm{
+    padding-left: 107px;
+}
+
+.shopupUL-navBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.shopupUL-checkbox{
+    margin-right: 30px;
+}
+.shopupUL-upBtn{
+    width: 100%;
+    padding-left: 100px;
+}
+.shopupUL-upBtn button{
+    width: 50px;
+    height: 40px;
+    background: #f3cd6f;
+    border:1px solid #000;
+    border-radius: 4px;
+}

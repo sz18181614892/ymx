@@ -1,0 +1,23 @@
+.commodity-main{
+    background-color: #F5F9FA;
+}
+.demo-infinite-container {
+    border: 1px solid #e8e8e8;
+    border-radius: 4px;
+    overflow: auto;
+    height: 300px;
+    position: relative;
+}
+
+.ant-list-item{
+    background-color: #fff;
+}
+.commodity-icon{
+    font-size: 30px;
+    margin-right: 20px;
+    color: #879596!important;
+}
+.commodity-container{
+    width: 950px;
+    margin: 20px auto;
+}

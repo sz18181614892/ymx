@@ -1,0 +1,121 @@
+
+.ReturnGoods{
+    position: relative;
+}
+.ReturnGoods-head-font{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.ReturnGoods-head-font-title div{
+    font-size:20px ;
+}
+.ReturnGoods-head-font-title{
+    display: flex;
+}
+.ReturnGoods-head-font-a{
+    margin-left: 18px;
+    padding-top: 13px;
+    height: 13px;
+    line-height:13px ;
+    font-size: 12px;
+}
+.ReturnGoods-head-font-button button{
+    width: 153px;
+    height: 30px;
+    font-size: 12px;
+}
+.ReturnGoods-search{
+    margin-top: 42px;
+}
+.ReturnGoods-search input{
+    width: 300px;
+    border-radius: 2px;
+    border: 0.5px solid #9D9D9D;
+}
+.ReturnGoods-search button{
+    width: 50px;
+    height: 24px;
+    border-radius:3px ;
+    margin-left: 5px;
+    font-size: 12px;
+    background-color: #666C74;
+    color: #FFF;
+}
+.ReturnGoods-head-font-button2{
+    margin:0 10px ;
+}
+.ReturnGoods-search label{
+    margin-left: 25px;
+    
+}
+.ReturnGoods-search select{
+    background-color: #f3f4f5;
+    border-radius:2px ;
+}
+.ReturnGoods-search span{
+    margin-left: 25px;
+}
+.ReturnGoods-listTitel{
+    margin-top: 10px;
+    width: 100%;
+    height: 60px;
+    background: #f3f3f3;
+    display: flex;
+    justify-content: space-around;
+    font-size: 12px;
+}
+.ReturnGoods-details{
+    text-align: center;
+    line-height: 140px;
+    font-size: 12px;
+    height: 140px;
+    border: 1px solid #ccc;
+}
+.ReturnGoods-box{
+    border-top:1px solid #ccc;
+    margin-top: 25px;
+    
+}
+.ReturnGoods-foot{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+}
+
+.ReturnGoods-foot a{
+    color: #000;
+    font-size: 12px;
+    
+}
+.ReturnGoods-foot span{
+    margin: 0 10px;
+}
+.ReturnGoods-searchLabell select{
+    color: chocolate;
+    border: none;
+    background: #f3f3f3;
+    font-weight: bold;
+}
+.ReturnGoods-ResultsPerPage select{
+    position: absolute;
+    right:0px;
+    top: 315px;
+    background-color: #f3f4f5;
+    border-radius:2px ;
+}
+.ReturnGoods-listTitel-color{
+    color: #0066c0;
+}
+.Tag{height: 300px;}
+.Tag span.ant-tag {
+    color: #FFF;
+    background-color: #008296;
+    position: absolute;
+    bottom: 0px;
+    left: 5px;
+}
+.Tag svg{
+    color: #fff;
+}

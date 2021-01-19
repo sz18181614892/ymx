@@ -1,0 +1,18 @@
+.commodity-select-box{
+    height: 458px;
+    background-color: #fafafa;
+    position: relative;
+    border: 1px solid #D3D3D3;
+}
+.commodity-select-icon{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 24px;
+}
+.commodity-select-icon p{
+    font-size: 12px;
+    color: #002F36;
+}

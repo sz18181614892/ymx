@@ -1,0 +1,452 @@
+.box {
+  font-size: 12px;
+}
+.CommodityPromotion-head {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #e8e8e8;
+}
+.CommodityPromotion-head-left span {
+  font-size: 14px;
+  margin-left: 25px;
+}
+.CommodityPromotion-head-right {
+  font-size: 12px;
+}
+.CommodityPromotion-head-right span {
+  margin: 0px 10px;
+}
+.CommodityPromotion-head-right-button2 {
+  background-color: #f6bd43;
+  border: 1px solid #f6bd43;
+  width: 100px;
+  height: 30px;
+  margin-left: 15px;
+}
+.CommodityPromotion-head-right-button1 {
+  border: 1px solid #e6e6e6;
+  width: 90px;
+  height: 30px;
+  margin-left: 15px;
+}
+.CommodityPromotion-body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.CommodityPromotion-body1 {
+  width: 958px;
+  margin: 25px 0;
+}
+.CommodityPromotion-setUp-box {
+  border: 1px solid #bfbfbf;
+  border-radius: 3px;
+}
+.CommodityPromotion-setUp {
+  padding: 20px;
+  font-size: 14px;
+  border-bottom: 1px solid #bfbfbf;
+}
+.CommodityPromotion-setUp span {
+  font-size: 18px;
+}
+.Name-of-advertising-campaign input {
+  width: 285px;
+  height: 30px;
+}
+.CommodityPromotion-setUp-time-box {
+  display: flex;
+  justify-content: space-between;
+}
+.Set-date {
+  width: 323px;
+  line-height: 26px;
+  padding-left: 5px;
+  border-left: 1px solid #ccc;
+}
+.Daily-budget {
+  display: flex;
+  justify-content: space-between;
+}
+.Set-date1 {
+  width: 323px;
+  height: 18px;
+  padding-left: 5px;
+  margin-top: 45px;
+  margin-bottom: 0px;
+  border-left: 1px solid #ccc;
+}
+.CommodityPromotion-setUp-content {
+  padding: 18px;
+  font-size: 12px;
+}
+.CommodityPromotion-setUp-content span {
+  font-weight: 700;
+  margin-top: 15px;
+}
+.SetUp-BudgetSelection2 span {
+  margin-top: 0px;
+}
+.CommodityPromotion-setUp-select {
+  margin-left: 0px !important;
+  background-color: #e9e9e9;
+  border-radius: 2px;
+}
+.CommodityPromotion-setUp-time {
+  display: flex;
+}
+.CommodityPromotion-setUp-time input {
+  margin-right: 15px;
+}
+.BiddingStrategy {
+  margin-top: 25px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+.BiddingStrategy-title {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+}
+.BiddingStrategy-content {
+  padding: 15px;
+  font-size: 12px;
+}
+.BiddingStrategy-content div {
+  margin-bottom: 8px;
+}
+.Createadgroupsettings {
+  margin-top: 20px;
+  font-size: 12px;
+}
+.Createadgroupsettings span {
+  font-size: 22px;
+}
+.Createadgroupsettings-box {
+  border: solid 1px #ccc;
+  border-radius: 2px;
+  margin-top: 20px;
+}
+.Createadgroupsettings-title span {
+  font-size: 16px;
+}
+.Createadgroupsettings-title {
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+}
+.Createadgroupsettings-content input {
+  width: 285px;
+}
+.Createadgroupsettings-content {
+  padding: 15px;
+  font-size: 12px;
+}
+.Launch {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.Launch-details {
+  border-left: 1px solid #ccc;
+  padding-left: 20px;
+}
+.Launch-details li {
+  list-style: disc;
+}
+.CommodityPromotion-search {
+  position: relative;
+  padding: 10px;
+  border-bottom: solid 1px #ccc;
+}
+.CommodityPromotion-search input {
+  width: 400px;
+  height: 30px;
+  text-indent: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+.CommodityPromotion-search i {
+  position: absolute;
+  top: 14px;
+  left: 15px;
+  color: #ccc;
+}
+.CommodityPromotion-search button {
+  width: 30px;
+  height: 29px;
+}
+.Add-promotional-products-box {
+  border: solid 1px #ccc;
+  margin-top: 25px;
+}
+.Add-promotional-product {
+  font-size: 16px;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+}
+.Add-page {
+  border: solid 1px #ccc;
+  width: 480px;
+  height: 500px;
+}
+.CommodityPromotion-setUp-select-sort {
+  margin-left: 10px !important;
+  background-color: #e9e9e9;
+  border-radius: 2px;
+}
+.jingjia {
+  font-weight: 700;
+}
+.Bidding {
+  padding: 15px;
+}
+.Bidding-1 {
+  margin-bottom: 20px;
+}
+.CommodityPromotion-search-sort {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 15px;
+  font-size: 12px;
+  border-bottom: 1px solid #ccc;
+}
+.Add-pager {
+  padding: 0px 11px;
+}
+.CommodityPromotion-search-sort-a {
+  line-height: 25px;
+}
+.Automatic-delivery {
+  border: 1px solid #ccc;
+  margin-top: 25px;
+}
+.Auto-launch-progress-offer {
+  margin-top: 22px;
+}
+
+.Automatic-delivery-choice {
+  width: 650px;
+  height: 290px;
+  border-left: 1px solid #ccc;
+  margin-top: -5px;
+  margin-left: 7px;
+}
+.Automatic-delivery-choice-List-header {
+  display: flex;
+  justify-content: space-around;
+}
+.Automatic-delivery-choice-List-content {
+  display: flex;
+  justify-content: space-around;
+  margin: 0px 10px;
+  border-bottom: 1px solid #ccc;
+  padding: 15px 0px;
+}
+.Automatic-delivery-choice-List-content1 {
+  display: flex;
+  justify-content: space-around;
+  margin: 0px 10px;
+  padding: 15px 0px;
+}
+.Automatic-delivery-choice-List-content .ant-input-affix-wrapper {
+  width: 70px;
+}
+.Automatic-delivery-choice-List-content1 .ant-input-affix-wrapper {
+  width: 70px;
+}
+.Automatic-delivery-choice-List-content span button {
+  margin-right: 10px;
+}
+.Suggested-bidding {
+  width: 69px;
+}
+
+.Add-promotional-products span {
+  margin: 0px 2px;
+}
+.Negative-keyword-positioning {
+  border: solid 1px #ccc;
+  margin-top: 25px;
+}
+
+.Negative-keywordaddition {
+  border: 1px solid #ccc;
+  width: 478px;
+  height: 735px;
+  background-color: #f7f7f7;
+}
+.Negative-keywordaddition-box {
+  display: flex;
+}
+.Negative-keywordaddition-add-delete {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+}
+.Negative-keywordaddition-key-word {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+  padding-right: 90px;
+}
+.negative {
+  border: 1px solid #ccc;
+  margin-top: 25px;
+}
+.negative-exclude {
+  padding: 20px;
+}
+.negative-exclude-box {
+  border: 1px solid #ccc;
+  width: 900px;
+  height: 498px;
+}
+.negative-exclude-box-Navigation {
+  margin: 12px 20px;
+}
+
+.negative-exclude-search {
+  position: relative;
+  border-bottom: solid 1px #ccc;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+.negative-exclude-search input {
+  width: 815px;
+  height: 30px;
+  text-indent: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+.negative-exclude-search i {
+  position: absolute;
+  top: 5px;
+  left: 32px;
+  color: #ccc;
+}
+.negative-exclude-search button {
+  width: 30px;
+  height: 29px;
+}
+.Items-to-exclude {
+  margin-top: 30px;
+  text-align: center;
+}
+.How-many-excluded-objects-are-added {
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.Negative-goals {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  padding: 5px 15px;
+  background-color: #f5f5f5;
+}
+.Negative-goals1 {
+  width: 900px;
+  height: 25px;
+  border: 1px solid #ccc;
+  border-top: 0px;
+}
+.button {
+  float: right;
+  margin-top: 20px;
+  overflow: hidden;
+}
+.button2 {
+  width: 240px;
+  height: 30px;
+  border: solid 1px #f7c454;
+  background-color: #f7c454;
+}
+.zidingyishouzhong {
+  padding: 15px;
+  border-bottom: solid 1px #ccc;
+}
+.Custom-audience-tab-box {
+  display: flex;
+}
+.Custom-audience-tab {
+  width: 460px;
+  height: 664px;
+  border: solid 1px #ccc;
+}
+.Custom-audience-tab1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: solid 1px #ccc;
+}
+.Custom-audience-tab-right {
+  width: 500px;
+  height: 664px;
+  border: solid 1px #ccc;
+}
+.Custom-audience-tab-right-list {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: solid 1px #ccc;
+}
+.originality {
+  border: solid 1px #ccc;
+  margin-top: 25px;
+}
+.originality-list {
+  width: 100%;
+  height: 600px;
+  display: flex;
+}
+.originality-list-left {
+  padding: 10px;
+  width: 380px;
+  height: 600px;
+  border: solid 1px #ccc;
+}
+.originality-list-left-content {
+  padding-top: 30px;
+  margin-left: 10px;
+  padding-left: 10px;
+  border-left: solid 1px #ccc;
+}
+.Brand-identity-box {
+  width: 75px;
+  height: 75px;
+  border: solid 1px #ccc;
+}
+.Edit-logo {
+  margin-bottom: 10px;
+  border-bottom: solid 1px #ccc;
+}
+.Right-head-of-Amazon-Product-Page {
+  display: flex;
+  padding: 10px 0;
+  padding-left: 10px;
+  line-height: 25px;
+  background-color: #f3f3f3;
+}
+.Right-head-of-Amazon-Product-Page select {
+  margin-right: 10px;
+}
+.Right-head-of-Amazon-Product-Page button {
+  width: 27px;
+  height: 25px;
+}
+.pages {
+  margin-left: 10px;
+}
+.Right-side-of-Amazon-Product-Page-box {
+  width: 578px;
+  height: 600px;
+}

@@ -1,0 +1,331 @@
+.box {
+  font-size: 12px;
+}
+.CommodityPromotion-head {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #e8e8e8;
+}
+.CommodityPromotion-head-left span {
+  font-size: 14px;
+  margin-left: 25px;
+}
+.CommodityPromotion-head-right {
+  font-size: 12px;
+}
+.CommodityPromotion-head-right span {
+  margin: 0px 10px;
+}
+.CommodityPromotion-head-right-button2 {
+  background-color: #f6bd43;
+  border: 1px solid #f6bd43;
+  width: 100px;
+  height: 30px;
+  margin-left: 15px;
+}
+.CommodityPromotion-head-right-button1 {
+  border: 1px solid #e6e6e6;
+  width: 90px;
+  height: 30px;
+  margin-left: 15px;
+}
+.CommodityPromotion-body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.CommodityPromotion-body1 {
+  width: 958px;
+  margin: 25px 0;
+}
+.CommodityPromotion-setUp-box {
+  border: 1px solid #bfbfbf;
+  border-radius: 3px;
+}
+.CommodityPromotion-setUp {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #bfbfbf;
+}
+.CommodityPromotion-setUp span {
+  font-size: 18px;
+}
+.CommodityPromotion-setUp-content {
+  padding: 18px;
+  font-size: 12px;
+}
+.CommodityPromotion-setUp-content span {
+  font-weight: 700;
+  margin-top: 15px;
+}
+.SetUp-BudgetSelection2 span {
+  margin-top: 0px;
+}
+.CommodityPromotion-setUp-select {
+  margin-left: 0px !important;
+  background-color: #e9e9e9;
+  border-radius: 2px;
+}
+.CommodityPromotion-setUp-time {
+  display: flex;
+}
+.CommodityPromotion-setUp-time input {
+  margin-right: 15px;
+}
+.BiddingStrategy {
+  margin-top: 25px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+.BiddingStrategy-title {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+}
+.BiddingStrategy-content {
+  padding: 15px;
+  font-size: 12px;
+}
+.BiddingStrategy-content div {
+  margin-bottom: 8px;
+}
+.Createadgroupsettings {
+  margin-top: 20px;
+  font-size: 12px;
+}
+.Createadgroupsettings span {
+  font-size: 22px;
+}
+.Createadgroupsettings-box {
+  border: solid 1px #ccc;
+  border-radius: 2px;
+  margin-top: 20px;
+}
+.Createadgroupsettings-title {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+}
+.Createadgroupsettings-content {
+  padding: 15px;
+  font-size: 12px;
+}
+.CommodityPromotion-search {
+  position: relative;
+  padding: 10px;
+  border-bottom: solid 1px #ccc;
+}
+.CommodityPromotion-search input {
+  width: 400px;
+  height: 30px;
+  text-indent: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+.CommodityPromotion-search i {
+  position: absolute;
+  top: 14px;
+  left: 15px;
+  color: #ccc;
+}
+.CommodityPromotion-search button {
+  width: 30px;
+  height: 29px;
+}
+.Add-promotional-products-box {
+  border: solid 1px #ccc;
+  margin-top: 25px;
+}
+.Add-promotional-products {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+}
+.Add-page {
+  border: solid 1px #ccc;
+  width: 480px;
+  height: 500px;
+}
+.CommodityPromotion-setUp-select-sort {
+  margin-left: 0px !important;
+  background-color: #e9e9e9;
+  border-radius: 2px;
+}
+.CommodityPromotion-search-sort {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 15px;
+  font-size: 12px;
+  border-bottom: 1px solid #ccc;
+}
+.Add-pager {
+  padding: 0px 11px;
+}
+.CommodityPromotion-search-sort-span {
+  background-color: #0066c0;
+  color: #fff;
+  margin-left: 5px;
+}
+.CommodityPromotion-search-sort-a {
+  line-height: 25px;
+}
+.Automatic-delivery {
+  border: 1px solid #ccc;
+  margin-top: 25px;
+}
+.Auto-launch-progress {
+  padding: 15px;
+}
+.Auto-launch-progress .ant-steps {
+  width: 180px;
+}
+.Add-promotional-products span {
+  margin: 0px 2px;
+}
+.Negative-keyword-positioning {
+  border: solid 1px #ccc;
+  margin-top: 25px;
+}
+.Add-promotional-products-Match-type {
+  width: 478px;
+  height: 735px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  position: relative;
+}
+.Add-promotional-products-Match-type input {
+  margin-left: 20px;
+}
+.Add-promotional-products-Match-type span {
+  margin-left: 5px;
+}
+.Add-promotional-products-Match-type button {
+  position: absolute;
+  top: 200px;
+  right: 20px;
+}
+.Add-promotional-products-Match-type textarea {
+  margin-top: 10px;
+}
+.Negative-keywordaddition {
+  border: 1px solid #ccc;
+  width: 478px;
+  height: 735px;
+  background-color: #f7f7f7;
+}
+.Negative-keywordaddition-box {
+  display: flex;
+}
+.Negative-keywordaddition-add-delete {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+}
+.Negative-keywordaddition-key-word {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+  padding-right: 90px;
+}
+.Learn-more {
+  margin-left: 15px;
+}
+.negative {
+  border: 1px solid #ccc;
+  margin-top: 25px;
+}
+.negative-exclude {
+  padding: 20px;
+}
+.negative-exclude-box {
+  border: 1px solid #ccc;
+  width: 900px;
+  height: 498px;
+}
+.negative-exclude-box-Navigation {
+  margin: 12px 20px;
+}
+
+.negative-exclude-search {
+  position: relative;
+  border-bottom: solid 1px #ccc;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+.negative-exclude-search input {
+  width: 815px;
+  height: 30px;
+  text-indent: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+.negative-exclude-search i {
+  position: absolute;
+  top: 5px;
+  left: 32px;
+  color: #ccc;
+}
+.negative-exclude-search button {
+  width: 30px;
+  height: 29px;
+}
+.Items-to-exclude {
+  margin-top: 30px;
+  text-align: center;
+}
+.How-many-excluded-objects-are-added {
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.Negative-goals {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  padding: 5px 15px;
+  background-color: #f5f5f5;
+}
+.Negative-goals1 {
+  width: 900px;
+  height: 25px;
+  border: 1px solid #ccc;
+  border-top: 0px;
+}
+.button {
+  float: right;
+  margin-top: 20px;
+  overflow: hidden;
+}
+.button1 {
+  width: 165px;
+  height: 30px;
+  margin-right: 20px;
+  border: solid 1px #ccc;
+}
+.button2 {
+  width: 240px;
+  height: 30px;
+  border: solid 1px #f7c454;
+  background-color: #f7c454;
+}
+.CommodityPromotion-foot {
+  text-align: center;
+  margin-top: 195px;
+  font-size: 12px;
+}

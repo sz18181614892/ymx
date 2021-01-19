@@ -1,0 +1,24 @@
+.commodity-collect-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 2px;
+    font-size: 12px;
+}
+.commodity-collect-box span{
+    color: #008296;
+}
+.commodity-collect {
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+.commodity-hint{
+    margin: 10px 0;
+    font-size: 12px;
+}
+.commodity-h2{
+    font-family: 方正楷体, serif;
+}
+.commodity-hint span{
+    color: #008296;
+}

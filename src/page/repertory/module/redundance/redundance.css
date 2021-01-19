@@ -1,0 +1,98 @@
+.redundance-titel{
+    display: flex;
+}
+.redundance-titel span{
+    padding-top: 25px;
+}
+.redundance-titelFont{
+    font-size: xx-large;
+}
+.redundance-recommend{
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.redundance-recommend div{
+    font-weight: bold;
+}
+.redundance-recommend button{
+    margin-left: 4px;
+    height: 35px;
+    padding: 0 10px;
+    background: #edeef1;
+    border: 1px solid #dddddd;
+}
+.redundance-warn {
+    width: 100%;
+    height: 50px;
+    border: 1px solid #00a484;
+    border-radius: 5px;
+    background: #f6f6f6;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+
+  .redundance-warnTitel-font {
+    font-size: 15px;
+    display: flex;
+  }
+  .redundance-warnTitel-font strong span {
+    position: absolute;
+    right: 1%;
+    top: 22%;
+  }
+  .redundance-warnFont{
+      width: 120px;
+      margin-right: 12px;
+  }
+  .redundance-warnTitel-font span{
+    font-size: 23px;
+    margin: 0 10px;
+  }
+  
+ .redundance-search{
+     display: flex;
+     justify-content: left;
+     align-items: center;
+ }
+ .redundance-searchLabel select{
+    width: 178px;
+    margin: 0 !important;
+ }
+ .redundance-inp-SKU{
+     display: flex;
+     justify-content: left;
+     align-items: center;
+ }
+ .redundance-searchLabel2 select{
+    margin: 0 20px 0 0  !important;
+ }
+ .Replenish-listTitel{
+    width: 100%;
+    height: 117px;
+    background: #f3f3f3;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+ }
+.redundance-searchLabell select{
+    color: chocolate;
+    border: none;
+    background: #f3f3f3;
+    font-weight: bold;
+}
+.redundance-searchLabell-spric{
+        text-align: right;
+}
+.redundance-searchLabell-button button{
+    width: 150px;
+    height: 35px;
+    background: #f9f3e5;
+    border: 1px solid #dddddd;
+}

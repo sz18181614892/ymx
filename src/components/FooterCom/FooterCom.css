@@ -1,0 +1,53 @@
+.ant-layout-footer {
+    padding-top: 10px;
+    font-size: 12px!important;
+    height: 100px !important;
+    position: relative;
+}
+
+.copyright {
+    color: #AAAAAA;
+}
+
+.footer-ul {
+    display: flex;
+    align-items: center;
+    color: #002F36;
+}
+
+.footer-ul span {
+    margin: 0 10px;
+}
+
+.footer-select {
+    outline: none;
+    padding: 1px 10px 1px 5px;
+    border: 1px solid #d0d0d0;
+    font-size: 12px;
+}
+
+.feedback{
+    background-color: #008296;
+    width: 70px;
+    height: 20px;
+    line-height: 20px;
+    position: absolute;
+    bottom: 0;
+    border-radius: 5px 5px 0 0;
+    padding-left: 12px;
+}
+.feedback button{
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 12px;
+
+}
+.iconfont-gb {
+    display: inline-block;
+    font-size: 10px;
+    color: #fff!important;
+    transform: scale(0.6);
+    position: relative;
+    right: -18px;
+}

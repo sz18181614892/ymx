@@ -1,0 +1,45 @@
+.tab5-box{
+    background-color: #fff;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.tab5-suggest{
+    color: #002F36;
+    padding-left: 26px;
+    padding-top: 24px;
+
+}
+
+.tab5-suggest h5{
+    color: #002F36;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+.tab5-suggest-img{
+    font-weight: bold;
+    font-size: 14px;
+}
+.tab5-uploading{
+    font-size: 12px;
+}
+.tab5-suggest-uploading-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.tab5-suggest-uploading-box .ant-upload-picture-card-wrapper{
+    width: 215px;
+    height: 182px;
+    margin: 20px;
+}
+.ant-upload.ant-upload-select-picture-card{
+    width: 100% !important;
+    height: 100% !important;
+}
+.ant-upload.ant-upload-select-picture-card {
+    background-color: #e2eced!important;
+}
+.tab5-button{
+    margin: 0;
+    padding-right: 20px;
+}

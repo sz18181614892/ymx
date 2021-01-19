@@ -1,0 +1,37 @@
+.tab8-box{
+    background-color: #fff;
+}
+.tab8-double-deck{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tab8-dispaly-depth{
+    position: relative;
+}
+.tab8-dispaly-depth p{
+    position: absolute;
+    top: -20px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #002F36;
+}
+.tab8-four-bar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.tab8-four-bar p{
+    margin-bottom: 0;
+}
+.tab8-product-height-box{
+    position: relative;
+}
+.tab8-product-height{
+    position: absolute;
+    top: -20px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #002F36;
+}

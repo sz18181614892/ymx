@@ -1,0 +1,177 @@
+.manageInventory-radio select {
+    background-color: #f5f6f9;
+    border-radius: 3px;
+}
+
+.manageInventory-orderForm {
+    border: #eaeaea solid 1px;
+    margin-top: 5px;
+    font-size: 12px !important;
+}
+
+.manage-orderForm-top {
+    background-color: #f3f3f3;
+    display: flex;
+    padding: 5px 0;
+    border-bottom: #eaeaea solid 1px;
+}
+.manage-orderForm-data{
+    display: flex;
+    padding: 5px 0;
+    border-bottom: #eaeaea solid 1px;
+}
+
+.manage-orderForm-margin {
+    margin: 0 4px;
+    font-weight: bold;
+}
+.manage-orderForm-dingDan{
+    margin: 0 4px;
+    word-wrap: break-word;
+    word-break: normal;
+}
+
+.manage-orderForm-weight {
+    color: #666666;
+    font-weight: lighter;
+}
+
+.manage-orderForm-color {
+    color: #0066c3;
+}
+
+.manage-orderForm-radio {
+    width: 30px;
+}
+
+.manage-orderForm-state {
+    width: 40px;
+}
+
+.manage-orderForm-image {
+    width: 55px;
+}
+
+.manage-orderForm-condition {
+    width: 80px;
+}
+
+.manage-orderForm-serialNumber {
+    width: 80px;
+}
+
+.manage-orderForm-name {
+    width: 145px;
+}
+
+.manage-orderForm-date {
+    width: 110px;
+}
+.manage-orderForm-date div:nth-child(1){
+    color: #e47911;
+}
+
+.manage-orderForm-endibility {
+    width: 50px;
+}
+.manage-orderForm-endibility input{
+    text-align: right;
+    border-radius: 3px;
+    border: #a6a6a6 solid 1px;
+    width: 100%;
+    padding: 0 4px;
+}
+
+.manage-orderForm-bePutInStorage {
+    width: 50px;
+}
+
+.manage-orderForm-doNotSell {
+    width: 65px;
+    text-align: right;
+}
+
+.manage-orderForm-reserved {
+    width: 65px;
+    text-align: right;
+}
+
+.manage-orderForm-estimatedCost {
+    width: 17px;
+    text-align: right;
+}
+
+.manage-orderForm-price {
+    width: 110px;
+    text-align: right;
+}
+.manage-orderForm-price input{
+    text-align: right;
+    border-radius: 3px;
+    border: #a6a6a6 solid 1px;
+    padding: 0 4px;
+    width: 100%;
+}
+.manage-orderForm-enterprisePrice {
+    width: 110px;
+    text-align: right;
+}
+
+.manage-orderForm-enterprisePrice input{
+    text-align: right;
+    border-radius: 3px;
+    border: #a6a6a6 solid 1px;
+    padding: 0 4px;
+    width: 95%;
+}
+.manage-orderForm-reservePrice {
+    width: 50px;
+    text-align: right;
+}
+
+.manage-orderForm-salesRank {
+    width: 17px;
+    text-align: right;
+}
+
+.manage-orderForm-buttonPrice {
+    width: 32px;
+    text-align: right;
+}
+
+.manage-orderForm-buttonStatus {
+    width: 17px;
+    text-align: right;
+}
+
+.manage-orderForm-fnSku {
+    width: 50px;
+}
+
+.manage-orderForm-distribution {
+    width: 65px;
+    text-align: right;
+}
+
+.manage-orderForm-upcEan {
+    width: 65px;
+    text-align: right;
+}
+
+.manage-orderForm-save {
+    width: 80px;
+    text-align: center;
+}
+
+.manage-orderForm-save button {
+    width: 60px;
+    background-color: #f9f3e5;
+    border: #e8e0cd solid 1px;
+}
+.manage-orderForm-save select{
+    border-radius: 2px;
+    height: 20px;
+    background-color: #f0f1f4;
+    margin: 0!important;
+    width: 100%;
+}

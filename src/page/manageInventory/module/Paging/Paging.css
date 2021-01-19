@@ -1,0 +1,76 @@
+.Paging {
+    display: flex;
+    justify-content: space-around;
+    margin: 5px 0 20px 0;
+    font-size: 13px;
+}
+
+.Paging-left {
+    width: 33%;
+    display: flex;
+    align-items: center;
+}
+
+.Paging-left input {
+    margin: 0 4px;
+    padding-left: 5px;
+    height: 25px;
+    width: 75px;
+    border: #adb1b8 solid 1px;
+}
+
+.Paging-left button {
+    margin: 0 4px;
+    height: 25px;
+    width: 50px;
+    border: #adb1b8 solid 1px;
+    background-color: #eff0f3;
+}
+
+.Paging-center {
+    width: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Paging-center button {
+    margin: 0 4px;
+    height: 25px;
+    border: #adb1b8 solid 1px;
+    background-color: #eff0f3;
+}
+
+.Paging-center button:nth-child(2) {
+    margin: 0 4px;
+    height: 25px;
+    border: #e77600 solid 1px;
+    color: #e77600;
+    background-color: #ffffff;
+}
+
+.Paging-center-button {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    border: #adb1b8 solid 1px;
+}
+
+.Paging-center-btn {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.Paging-right {
+    width: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Paging-right select {
+    background-color: #f4f5f7;
+    border: #dddddd solid 1px;
+    border-radius: 3px;
+}
