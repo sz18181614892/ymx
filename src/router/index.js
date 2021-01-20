@@ -11,6 +11,8 @@ import adminVideo from '../page/adminVideo/adminVideo';
 import imgup from '../page/imgup/imgup';
 import shopup from '../page/shopup/shopup';
 import advertisement from '../page/advertisement';
+import orderReport from '../page/orderReport';
+import manageReturns from '../page/manageReturns';
 const App = ()=> (
     <BrowserRouter>
         <Switch>
@@ -27,6 +29,8 @@ const App = ()=> (
             <Route path="/imgup" exact={true} component={imgup} />
             <Route path="/shopup" exact={true} component={shopup} />
             <Route path="/advertisement" exact={true} component={advertisement} />
+            <Route path="/orderReport" exact={true} component={orderReport} />
+            <Route path="/manageReturns" exact={true} component={manageReturns} />
         </Switch>
 
     </BrowserRouter>

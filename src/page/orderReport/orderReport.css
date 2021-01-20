@@ -1,0 +1,136 @@
+.orderReport-main {
+  background-color: #f5f9fa;
+}
+.demo-infinite-container {
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  overflow: auto;
+  height: 300px;
+  position: relative;
+}
+
+.ant-list-item {
+  background-color: #fff;
+}
+.orderReport-icon {
+  font-size: 30px;
+  margin-right: 20px;
+  color: #879596 !important;
+}
+.orderReport-container {
+  width: 950px;
+  margin: 20px auto;
+}
+.orderReport-box {
+  padding: 28px 50px;
+}
+.orderReport-1 {
+  border-radius: 3px;
+  padding: 8px 15px;
+  border: solid 1px #bbd3de;
+  display: flex;
+  margin-bottom: 20px;
+}
+.tubiao1 {
+  margin-right: 10px;
+}
+.orderReport-1-1 {
+  font-size: 12px;
+}
+.orderReport-2 {
+  border-radius: 3px;
+  padding: 8px 15px;
+  border: solid 1px #8c6e00;
+  display: flex;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 5px #f0e6c4 inset;
+}
+.card-container {
+  border: solid 1px #ccc;
+}
+.ant-tabs-card.ant-tabs-top > .ant-tabs-nav .ant-tabs-tab:not(:last-of-type) {
+  margin: 0px !important;
+  border-right: 0;
+  /* border-top:1px solid #e77600 !important; */
+}
+.ant-tabs-tab-active {
+  border-top: 1px solid #e77600 !important;
+  border-bottom: 0px !important;
+}
+.ant-tabs-tab {
+  padding: 10px 12px !important;
+  font-size: 12px !important;
+}
+.ant-tabs-tabpane {
+  padding: 20px;
+  font-size: 12px;
+}
+.request-report {
+  margin-top: 20px;
+  border: solid 1px #ccc;
+  border-radius:5px ;
+}
+.request-report-name {
+  font-size: 14px;
+  padding: 10px;
+  border-bottom: solid 1px #ccc;
+  background-color:#f3f3f3 ;
+  border-radius:5px 5px 0px 0px ;
+}
+.request-report-content {
+  padding: 10px 15px;
+}
+.request-report-input {
+  display: flex;
+  align-items: center;
+}
+.request-report-content select{
+    background-color:#edeff1 ;
+    border-radius:0 ;
+    margin-right:24px ;
+}
+.request-report-content button{
+    width: 45px;
+    height: 25px;
+    background-color:#f0c352 ;
+    border: solid 1px #f0c352;
+}
+.request-report-content1 button{
+    width: 45px;
+    height: 25px;
+    background-color:#f0c352 ;
+    border: solid 1px #f0c352;
+}
+.request-report-content1 select{
+    background-color:#edeff1 ;
+    border-radius:0 ;
+    margin-right:4px ;
+    margin-left: 0px!important;
+}
+.request-report-content1 {
+    padding: 10px 15px;
+    padding-top: 20px;
+  }
+  .request-report-card{
+      font-size: 14px;
+      margin-top: 10px;
+  }
+  .request-report-list .ant-table-thead{
+      font-size: 12px;
+      padding:8px 12px ;
+      background-color:#f3f3f3 !important;
+  }
+  .request-report-list .ant-table-cell{
+    font-size: 12px;
+    padding:8px 12px ;
+  }
+  .request-report-list-title{
+    margin-top: 20px;
+    border: solid 1px #ccc;
+    padding: 9px 15px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .request-report-list-button{
+      width: 40px;
+  }

@@ -1,0 +1,151 @@
+.manageReturns-body {
+  padding: 40px 80px;
+  font-size: 12px;
+}
+.manageReturns-name {
+  font-size: 24px;
+  margin-right: 15px;
+}
+.manageReturns-branch {
+  margin: 0px 22px;
+  color: #ddd;
+}
+.manageReturns-screen {
+  margin: 14px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.manageReturns-screen input {
+  width: 550px;
+  height: 30px;
+}
+.manageReturns-screen button {
+  width: 50px;
+  height: 30px;
+  background-color: #696f77;
+  color: #fff;
+  border: 0;
+}
+.manageReturns-screen select {
+  background-color: #f1f2f5;
+}
+.manageReturns-chakan .ant-tabs-nav {
+  padding: 10px 0px !important;
+}
+.manageReturns-chakan .ant-tabs-nav::before {
+  border-bottom: 1px solid #ccc !important;
+}
+.manageReturns-chakan {
+  border-top: 1px solid #ccc;
+  position: relative;
+}
+.manageReturns-chakan .ant-tabs-tabpane {
+  padding: 0px;
+}
+.manageReturns-chakan .ant-tabs-tab-active {
+  border-top: 0 !important ;
+}
+.manageReturns-chakan .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #000 !important;
+  font-weight: 700;
+}
+.manageReturns-chakan .ant-tabs-tab-btn {
+  color: #000;
+}
+.manageReturns-see-FBA {
+  position: absolute;
+  top: 20px;
+  right: 0;
+}
+.manageReturns-xuanzhe {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.manageReturns-xuanzhe1 {
+  display: flex;
+  align-items: center;
+  margin-left: 25px;
+}
+.manageReturns-xuanzhe input {
+  margin-right: 12px;
+}
+.manageReturns-list {
+  border: solid #ccc 1px;
+  border-radius: 3px;
+  margin-top: 25px;
+}
+.manageReturns-list-head {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 200px 10px 25px;
+  border-bottom: solid #ccc 1px;
+  background-color: #f6f6f6;
+}
+.manageReturns-list-content {
+  display: flex;
+  justify-content: space-between;
+}
+.manageReturns-list-content1 {
+  padding: 18px;
+}
+.manageReturns-list-content1-button {
+  width: 152px;
+  height: 25px;
+  background-color: #008a00;
+  border: 0;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.manageReturns-list-content-span {
+  color: #c45500;
+  font-weight: 700;
+}
+.manageReturns-list-content img {
+  margin-left: 118px;
+}
+.manageReturns-list-content1-button1 {
+  width: 250px;
+  height: 30px;
+  background-color: #f0f1f4;
+  border: solid 1px #adb1b8;
+  margin: 6px 0px;
+}
+.tuihuoyuanying {
+  width: 400px;
+}
+.shuoming {
+  width: 820px;
+}
+.manageReturns-input {
+  display: flex;
+}
+.manageReturns-input input {
+  margin-right: 8px;
+}
+.manageReturns-list-content1-button2 {
+  width: 250px;
+  height: 30px;
+  background-color: #f2cd6e;
+  border: solid 1px #adb1b8;
+  margin-bottom: 6px;
+}
+.manageReturns-paging {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.manageReturns-paging span {
+  font-weight: 700;
+}
+.manageReturns-paging select {
+  width: 50px;
+  background-color: #eeeff2;
+  border-radius: 2px;
+  margin-right: 5px;
+}
+.manageReturns-paging button {
+  width: 40px;
+  border: 1px solid #ccc;
+  height: 25px;
+}
