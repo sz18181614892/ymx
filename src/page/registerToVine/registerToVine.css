@@ -1,0 +1,77 @@
+.registerToVine-box {
+  font-size: 12px;
+}
+.registerToVine-img1 {
+  width: 100%;
+}
+.registerToVine-title1 {
+  display: flex;
+  justify-content: center;
+  font-size: 33px;
+}
+.registerToVine-title1 div {
+  text-align: center;
+  width: 600px;
+}
+.registerToVine-introduce {
+  display: flex;
+  padding: 35px 70px;
+}
+.registerToVine-introduce1 {
+  width: 523px;
+  height: 100px;
+  border-right: 1px solid #ccc;
+  padding-right: 30px;
+}
+.registerToVine-introduce1 span {
+  font-size: 16.5px;
+  font-weight: 600;
+}
+.registerToVine-introduce2 {
+  width: 523px;
+  height: 100px;
+  border-right: 1px solid #ccc;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.registerToVine-introduce2 span {
+  font-size: 16.5px;
+  font-weight: 600;
+}
+.registerToVine-introduce3 {
+  width: 523px;
+  height: 100px;
+  padding-left: 30px;
+}
+.registerToVine-introduce3 div {
+  margin-top: 8px;
+}
+.registerToVine-introduce2 div {
+  margin-top: 8px;
+}
+.registerToVine-introduce1 div {
+  margin-top: 8px;
+}
+.registerToVine-introduce3 span {
+  font-size: 16.5px;
+  font-weight: 600;
+}
+.registerToVine-register {
+  display: flex;
+  justify-content: center;
+}
+.registerToVine-register button {
+  width: 180px;
+  height: 30px;
+  background-color: #008296;
+  color: #fff;
+  border: 0;
+}
+.registerToVine-img2 {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+.registerToVine-research-report {
+    padding: 25px 70px;
+}

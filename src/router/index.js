@@ -13,6 +13,9 @@ import shopup from '../page/shopup/shopup';
 import advertisement from '../page/advertisement';
 import orderReport from '../page/orderReport';
 import manageReturns from '../page/manageReturns';
+import registerToVine from '../page/registerToVine';
+import manageYourExperiments from '../page/manageYourExperiments';
+import newBundle from '../page/newBundle';
 const App = ()=> (
     <BrowserRouter>
         <Switch>
@@ -31,6 +34,9 @@ const App = ()=> (
             <Route path="/advertisement" exact={true} component={advertisement} />
             <Route path="/orderReport" exact={true} component={orderReport} />
             <Route path="/manageReturns" exact={true} component={manageReturns} />
+            <Route path="/registerToVine" exact={true} component={registerToVine} />
+            <Route path="/manageYourExperiments" exact={true} component={manageYourExperiments} />
+            <Route path="/newBundle" exact={true} component={newBundle} />
         </Switch>
 
     </BrowserRouter>
